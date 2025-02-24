@@ -1,6 +1,6 @@
 
 let listaNumeroSorteado = []
-let numeroMaximo = 50 
+let numeroMaximo = 100; 
 let = numeroSecreto = gerador();
 let tentativas = 1;
 
